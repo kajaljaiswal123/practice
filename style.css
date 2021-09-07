@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(th.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color:blue;
+    text-align: center;
+    padding: 5px;
+    border: 1px double black;
+    
+}
+table tr td{
+    background-color:bisque;
+    font-size: 35px;
+    font-family:  monospace;
+    border: 1px dotted black;
+   
+    
+    
+}
+#select{
+    color: rgb(201, 27, 27);
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(238, 219, 219);
+}
+#bottom{
+    color:rgb(40, 19, 160);
+    font-size: 25px;
+    background-color: rgb(192, 148, 90);
+
+}
+.radio{
+    color:black;
+    font-size: 30px;
+}
